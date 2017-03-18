@@ -1,0 +1,578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"order",
+				"orderby"
+			],
+			[
+				"array_merge",
+				"array_merge_recursive"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"author",
+				"author_names"
+			],
+			[
+				"dis",
+				"display_name"
+			],
+			[
+				"post",
+				"post_author"
+			],
+			[
+				"coauthor_",
+				"coauthor_terms"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"co",
+				"coauthor_terms"
+			],
+			[
+				"fea",
+				"featured_poets"
+			],
+			[
+				"number",
+				"numberposts"
+			],
+			[
+				"c-arch",
+				"c-archive-module__image"
+			],
+			[
+				"pr",
+				"primary"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"restr",
+				"restricted_cat"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"the_u",
+				"the_user_id"
+			],
+			[
+				"Des",
+				"DESC"
+			],
+			[
+				"content",
+				"content_query"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"innt",
+				"innerHTML"
+			],
+			[
+				"flo",
+				"floatingNavLink"
+			],
+			[
+				"get",
+				"getChapter"
+			],
+			[
+				"fl",
+				"floatingNavLink"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ch",
+				"chapterButton"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"url",
+				"urlUpdate"
+			],
+			[
+				"chapter",
+				"chapterContainer"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"n",
+				"nextButton"
+			],
+			[
+				"transfor",
+				"transform-origin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "build/sass/index.sass",
+			"settings":
+			{
+				"buffer_size": 2043,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build/jade/index.jade",
+			"settings":
+			{
+				"buffer_size": 14091,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dist/assets/js/index.js",
+			"settings":
+			{
+				"buffer_size": 3566,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ianmaleney/Desktop/stingingflypodcast.xml",
+			"settings":
+			{
+				"buffer_size": 1936,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/build",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/build/jade",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/build/sass",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/dist",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/dist/assets",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/dist/assets/css",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/dist/assets/img",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/dist/assets/js"
+	],
+	"file_history":
+	[
+		"/Users/ianmaleney/Desktop/thegrand.xml",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/style.sass",
+		"/Users/ianmaleney/Desktop/web/stingingfly/wp-config.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/category-archive.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/template-parts/home-page/sf-magazine-content.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/modules/page-templates/home-page/home-page-modules/_featured-module-styling.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/modules/page-templates/home-page/home-page-modules/_mag-home-module.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/header.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/template-parts/woocommerce/archival-content.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/modules/primary-structure/headers/_primary-header.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/modules/page-templates/archive-page/_archive-page.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/functions.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/modules/page-templates/product-template/_product.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/_layout.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/404.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/front-page.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/modules/page-templates/home-page/home-page-modules/_basic-module-styling.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/template-parts/home-page/sf-archive-content.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/woocommerce/archive-product.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/mu-plugins/custom-widgets.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/template-parts/content-book.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/search.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/modules/woocommerce/_woocommerce.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/archive.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/author.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/template-parts/content-search.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/searchform.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/template-parts/home-page/sf-events-content.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/modules/page-templates/_page-templates.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/template-parts/archive-page/_archive-page.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/category.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/woocommerce/content-single-product.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/plugins/woocommerce/templates/single-product/product-image.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/modules/primary-structure/sidebars/_primary-sidebar.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/_states.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/modules/components/_full-width-headline.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/modules/primary-structure/headers/_secondary-header.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/header-secondary.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/modules/page-templates/archive-template/_publication-archive.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/archive-publications.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/template-parts/home-page/sf-latest-content.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/template-parts/home-page/sf-featured-content.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/template-parts/content-single.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/tramp/functions.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/template-parts/home-page/sf-home-subscribe-module.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/plugins/co-authors-plus/co-authors-plus.php",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-admin/edit.php",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/feb/santos/build/jade/index.jade",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/feb/santos/build/sass/index.sass",
+		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/js/acf-maps.js",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/jan/xenakis/build/jade/intro.jade",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/jan/xenakis/build/jade/conclusion.jade",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/jan/xenakis/dist/assets/js/chapters.json",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/jan/xenakis/dist/assets/js/scripts.js",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/jan/xenakis/build/sass/_base.sass",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/jan/xenakis/build/jade/polytopes.jade",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/jan/xenakis/build/jade/pavillion.jade",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/jan/xenakis/build/jade/tourette.jade",
+		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/jan/xenakis/build/jade/index.jade",
+		"/Users/ianmaleney/Downloads/wordpress 2/wp-config.php",
+		"/Users/ianmaleney/Desktop/Web Design/niosmo/wordpress/wp-content/themes/shapely-child/style.css",
+		"/Users/ianmaleney/Downloads/wordpress 3.2/wp-mail.php",
+		"/Users/ianmaleney/Downloads/wordpress 3.2/wp-login.php",
+		"/Users/ianmaleney/Downloads/wordpress 3.2/wp-load.php",
+		"/Users/ianmaleney/Downloads/wordpress 3.2/wp-links-opml.php",
+		"/Users/ianmaleney/Downloads/wordpress 3.2/wp-feed.php",
+		"/Users/ianmaleney/Downloads/wordpress 3.2/wp-cron.php",
+		"/Users/ianmaleney/Downloads/wordpress 3.2/wp-commentsrss2.php",
+		"/Users/ianmaleney/Downloads/wordpress 3.2/wp-comments-post.php",
+		"/Users/ianmaleney/Downloads/wordpress 3.2/wp-blog-header.php",
+		"/Users/ianmaleney/Downloads/wordpress 3.2/wp-atom.php",
+		"/Users/ianmaleney/Downloads/wordpress 3.2/wp-app.php",
+		"/Users/ianmaleney/Downloads/wordpress 3.2/wp-activate.php",
+		"/Users/ianmaleney/Downloads/wordpress 3.2/wp-pass.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bar",
+			"register_sidebar",
+			"'cat'",
+			"variation",
+			"event",
+			"div.images",
+			".images",
+			"product",
+			"background-image: url(",
+			"svg",
+			"background:",
+			"public",
+			"query_posts()",
+			"table-of",
+			"}",
+			"I've heard"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "build/sass/index.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1048,
+								1048
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1290.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "build/jade/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1122,
+								1113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 67.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dist/assets/js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3556,
+								3556
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1609.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/ianmaleney/Desktop/stingingflypodcast.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1251,
+								1251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tim.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
