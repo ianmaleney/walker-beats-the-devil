@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"head",
+				"headlineInterval"
+			],
+			[
+				"bod",
+				"body-img"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
 				"for",
 				"for\tfor (…) {…}"
 			],
@@ -159,7 +171,7 @@
 			"file": "build/sass/index.sass",
 			"settings":
 			{
-				"buffer_size": 2043,
+				"buffer_size": 4536,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -168,25 +180,7 @@
 			"file": "build/jade/index.jade",
 			"settings":
 			{
-				"buffer_size": 14091,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "dist/assets/js/index.js",
-			"settings":
-			{
-				"buffer_size": 3566,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/ianmaleney/Desktop/stingingflypodcast.xml",
-			"settings":
-			{
-				"buffer_size": 1936,
+				"buffer_size": 20258,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -237,18 +231,13 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim",
-		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/build",
-		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/build/jade",
-		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/build/sass",
-		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/dist",
-		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/dist/assets",
-		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/dist/assets/css",
-		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/dist/assets/img",
-		"/Users/ianmaleney/Desktop/Fallow/Fallow Media/2017/mar/tim/dist/assets/js"
+		"/Users/ianmaleney/Desktop/Fallow/fallowmedia/2017/mar/tim"
 	],
 	"file_history":
 	[
+		"/Users/ianmaleney/Desktop/Fallow/fallowmedia/2017/mar/tim/dist/assets/js/index.js",
+		"/Users/ianmaleney/Downloads/git-ftp-git-ftp-e406972/README.md",
+		"/Users/ianmaleney/Desktop/stingingflypodcast.xml",
 		"/Users/ianmaleney/Desktop/thegrand.xml",
 		"/Users/ianmaleney/Desktop/web/wordpress/wp-content/themes/stingingfly/build/sass/style.sass",
 		"/Users/ianmaleney/Desktop/web/stingingfly/wp-config.php",
@@ -340,6 +329,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"bera sans",
+			"quote",
+			"\"",
+			"&emdash;",
+			"-",
+			"  ",
+			"Point Blank",
 			"bar",
 			"register_sidebar",
 			"'cat'",
@@ -363,6 +359,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"&mdash;",
+			" ",
+			"<i>Point Blank</i>"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -373,7 +372,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -382,27 +381,32 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2043,
+						"buffer_size": 4536,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1048,
-								1048
+								3368,
+								3368
 							]
 						],
 						"settings":
 						{
 							"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark.tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+							"git_gutter_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1290.0,
+						"translation.y": 2587.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -411,80 +415,28 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14091,
+						"buffer_size": 20258,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1122,
-								1113
+								1634,
+								1634
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+							"git_gutter_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 67.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "dist/assets/js/index.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3566,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3556,
-								3556
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1609.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/ianmaleney/Desktop/stingingflypodcast.xml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1936,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1251,
-								1251
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/XML/XML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -528,11 +480,15 @@
 	{
 		"height": 0.0
 	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
 	"pinned_build_system": "",
 	"project": "tim.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 74.0
 	},
 	"save_all_on_build": true,
 	"select_file":

@@ -91,12 +91,13 @@ window.addEventListener("load", function(){
 	    slideRows[rnd3].style.setProperty(prop, direction);
 		}
 		
-		setDelay();
-		setDuration();
-		setDirection();
+			setDelay();
+			setDuration();
+			setDirection();
+		
 	};
 
-	setInterval(headline, 3000);
+	var headlineInterval = setInterval(headline, 3000);
 
 	document.addEventListener("scroll", function(){
 		var top = sections[0].getBoundingClientRect().top;
@@ -121,6 +122,7 @@ window.addEventListener("load", function(){
 			};
 
 			removal();
+			clearInterval(headlineInterval);
 
 			if(top < 0){
 				for (var i = 0; i < slideColumns.length; i++) {

@@ -310,6 +310,61 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/dist\/leadimage\/pb-l.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121191,
+		"inputAbbreviatedPath": "\/dist\/leadimage\/pb-l.jpg",
+		"outputAbbreviatedPath": "\/dist\/leadimage\/pb-l.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dist\/leadimage\/pb-mds.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71893,
+		"inputAbbreviatedPath": "\/dist\/leadimage\/pb-mds.jpg",
+		"outputAbbreviatedPath": "\/dist\/leadimage\/pb-mds.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dist\/leadimage\/pb-mls.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107104,
+		"inputAbbreviatedPath": "\/dist\/leadimage\/pb-mls.jpg",
+		"outputAbbreviatedPath": "\/dist\/leadimage\/pb-mls.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dist\/leadimage\/pb-sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41056,
+		"inputAbbreviatedPath": "\/dist\/leadimage\/pb-sm.jpg",
+		"outputAbbreviatedPath": "\/dist\/leadimage\/pb-sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dist\/leadimage\/pb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116568,
+		"inputAbbreviatedPath": "\/dist\/leadimage\/pb.jpg",
+		"outputAbbreviatedPath": "\/dist\/leadimage\/pb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		}
 	},
 "hooks": [
